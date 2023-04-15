@@ -7,19 +7,7 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/actuallymab/laravel-comment/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/actuallymab/laravel-comment/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/actuallymab/laravel-comment/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/actuallymab/laravel-comment/?branch=master)
 
-Just another comment system for your awesome Laravel project.
-
-## Version Compatibility
-
- Laravel  | Laravel Comment
-:---------|:----------
- 5.0.x    | 0.1.x
- 5.1.x    | 0.1.x
- 5.2.x    | 0.1.x
- 5.3.x    | 0.2.x
- 5.4.x    | 0.3.x
- 
-For `>5.5` you can use `^1.0.0` version.
+Just another comment system for your awesome Laravel 6/7/8/9/10 project.
 
 ## Install
 
